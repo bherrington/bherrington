@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I work mainly with geospatial data :world_map: using some combination of Python, SQL, and JavaScript.
+
 <!--
 **bherrington/bherrington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
